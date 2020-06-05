@@ -1,5 +1,4 @@
 #!/bin/bash
-git init
 git add .
 git config user.name "hustwutao"
 git config user.email hust.wutao@gmail.com
